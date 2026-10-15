@@ -1,2 +1,4 @@
 # birch-analysis
-Created the merged metadata file
+Includes
+- Creating the merged metadata file
+- Prepping the biom file for use
